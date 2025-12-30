@@ -373,22 +373,6 @@ text
 
 ---
 
-## 📸 Screenshots
-
-### Empty State
-![Empty State](https://via.placeholder.com/800x400.png?text=Empty+State+-+No+Files+Yet)
-
-### File Tree with Nested Structure
-![File Tree](https://via.placeholder.com/800x400.png?text=File+Tree+with+Folders+and+Files)
-
-### Hover Actions
-![Hover Actions](https://via.placeholder.com/800x400.png?text=Hover+Over+Items+to+See+Actions)
-
-### Error Toast
-![Error Toast](https://via.placeholder.com/800x400.png?text=Error+Notification+Toast)
-
----
-
 ## 🎯 Testing Guide
 
 ### Manual Testing
@@ -449,8 +433,8 @@ MIT License - feel free to use this project for learning or portfolio purposes.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Guri9368)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [Guri9368](https://github.com/Guri9368)
+- LinkedIn: [Gurmeet-singh-rathor]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/gurmeet-singh-rathor-1bbbaa270/))
 
 ---
 
@@ -467,5 +451,6 @@ MIT License - feel free to use this project for learning or portfolio purposes.
 For questions or feedback, reach out at:gurigurmeet1234567@gmail.com
 
 ---
+
 
 **⭐ If you found this helpful, please star the repository!**
